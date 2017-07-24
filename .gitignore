@@ -10,12 +10,8 @@
 [Bb]uild
 /[Bb]uilds/
 /[Ll]ibrary/
-<<<<<<< HEAD
 [Ll]ibrary/
-=======
 Library/
-[Ll]ibrary
->>>>>>> master
 sysinfo.txt
 *.stackdump
 /Assets/AssetStoreTools*
