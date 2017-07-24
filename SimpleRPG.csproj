@@ -91,6 +91,8 @@
     <Compile Include="Assets\Scripts\DialogueSystems.cs" />
     <Compile Include="Assets\Scripts\Interactable.cs" />
     <Compile Include="Assets\Scripts\ItemPickUp.cs" />
+    <Compile Include="Assets\Scripts\Monster.cs" />
+    <Compile Include="Assets\Scripts\Monster\Wilk.cs" />
     <Compile Include="Assets\Scripts\NPC.cs" />
     <Compile Include="Assets\Scripts\plecak.cs" />
     <Compile Include="Assets\Scripts\score.cs" />
